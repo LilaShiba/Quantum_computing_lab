@@ -1,8 +1,7 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 # 🇮🇪 [Inspiration](https://youtu.be/7UuUOXfiz9Q?si=eZvPbhvttn-waPDz) 🇮🇪
-# [So much Inspiration](https://drive.google.com/file/d/1QdsuFvBCJMg3uN5qNLe2snH-aBSJhDTT/view?usp=sharing) 💖
-# [My Try](https://drive.google.com/file/d/1rHCO5aJ1kWOYJ2QbmOK4VFzWtyl9FSmI/view?usp=drive_link) ✨✨✨
+# [So much Inspiration](https://drive.google.com/file/d/1QdsuFvBCJMg3uN5qNLe2snH-aBSJhDTT/view?usp=sharing) ✨✨✨💖
 
 # 🏹 Robin Hood's Quantum Adventure 🏹
 
