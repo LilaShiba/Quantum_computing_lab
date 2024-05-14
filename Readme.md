@@ -1,6 +1,7 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-# [Inspiration](https://drive.google.com/file/d/1QdsuFvBCJMg3uN5qNLe2snH-aBSJhDTT/view?usp=sharing) 💖
+# 🇮🇪 [Inspiration](https://youtu.be/7UuUOXfiz9Q?si=eZvPbhvttn-waPDz) 🇮🇪
+# [Contribution](https://drive.google.com/file/d/1QdsuFvBCJMg3uN5qNLe2snH-aBSJhDTT/view?usp=sharing) 💖
 # [Best Book On QP](https://mitpress.mit.edu/9780262526678/quantum-computing/) 💖
 
 
