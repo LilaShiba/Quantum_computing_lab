@@ -6,7 +6,8 @@
 
 # 🏹 Robin Hood's Quantum Adventure 🏹
 
-[![Image File on GitHub](https://github.com/LilaShiba/Quantum_computing_lab/blob/main/Screenshot%202024-05-14%20at%2012.12.00%20PM.png)](https://drive.google.com/file/d/1rHCO5aJ1kWOYJ2QbmOK4VFzWtyl9FSmI/view?usp=sharing]
+[![Image File on GitHub](https://raw.githubusercontent.com/LilaShiba/Quantum_computing_lab/main/Screenshot%202024-05-14%20at%2012.12.00%20PM.png)](https://drive.google.com/file/d/1rHCO5aJ1kWOYJ2QbmOK4VFzWtyl9FSmI/view?usp=sharing)
+
 
 
 Welcome to the mystical Sherwood Forest of Quantum Computing! 🌳✨ Here, we embark on an adventure to uncover the secrets of photons, those mischievous particles of light that behave in the most unexpected ways. 🌟✨ Ready your bows and arrows, and let’s dive into the quantum realm! 🏹🔮
