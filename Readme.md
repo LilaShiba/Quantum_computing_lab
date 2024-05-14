@@ -1,6 +1,8 @@
 💖<link rel="stylesheet" type="text/css" href="styles.css">💖
 
-# [Inspiration](https://drive.google.com/file/d/1QdsuFvBCJMg3uN5qNLe2snH-aBSJhDTT/view?usp=sharing) 
+# 
+  - [Inspiration](https://drive.google.com/file/d/1QdsuFvBCJMg3uN5qNLe2snH-aBSJhDTT/view?usp=sharing)
+  - [Best Book On QP](https://mitpress.mit.edu/9780262526678/quantum-computing/)
 
 
 # 🏹 Robin Hood's Quantum Adventure 🏹
@@ -25,3 +27,6 @@ May the spirit of Robin Hood guide us as we unravel the mysteries of the quantum
 
 # 🛠️ Tools 🛠️
 - [Magic Entity](https://github.com/LilaShiba/Quantum_computing_lab/blob/main/Screen%20Recording%202024-05-14%20at%2012.15.45%20PM.mov)
+
+# Resources / Works Cited
+- [best book on qc](https://mitpress.mit.edu/9780262526678/quantum-computing/)
