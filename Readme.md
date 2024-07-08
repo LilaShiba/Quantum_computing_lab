@@ -1,3 +1,5 @@
+
+
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 # [What is Light?](https://youtu.be/7UuUOXfiz9Q?si=eZvPbhvttn-waPDz)
@@ -44,32 +46,30 @@ In quantum computing, vectors help us represent quantum states. For example, a s
 
 Now, let's tie this understanding of vectors into our experiment. We'll be passing light through three layers of polarized film to demonstrate quantum properties.
 
-#### What Are Polarized Films?
+### What Are Polarized Films?
 Polarized films are materials that only allow light waves vibrating in a certain direction to pass through. When light passes through these films, its direction (or polarization state) changes, much like how vectors can change direction.
 
----
-
-# Our Experiment
+#### Our Experiment Setup
 
 <details>
-<summary><strong>Start Lab Here!</strong></summary>
+<summary><strong>Start Your Quantum Adventure Here!</strong></summary>
 <br>
   
 0. **Hardware:** Create a program to measure light in lux using Python & the Raspberry Pi.
 
- ![image](https://cdn-learn.adafruit.com/assets/assets/000/109/050/medium640/adafruit_products_VEML7700_RasPi_original.jpg?1645044837)
+   ![image](https://cdn-learn.adafruit.com/assets/assets/000/109/050/medium640/adafruit_products_VEML7700_RasPi_original.jpg?1645044837)
 
 1. **Layer 1:** The first layer of polarized film will align the photons in a specific direction.
 
-  ![Layer 1](https://alienryderflex.com/polarizer/01.gif)
+   ![Layer 1](https://alienryderflex.com/polarizer/01.gif)
 
 2. **Layer 2:** The second layer, oriented at a different angle, will alter the photons' directions further.
 
-  ![Layer 2](https://alienryderflex.com/polarizer/02.gif)
+   ![Layer 2](https://alienryderflex.com/polarizer/02.gif)
   
 3. **Layer 3:** The third layer will demonstrate how the final direction of the photons is influenced by the previous two layers.
 
-  ![Layer 3](https://alienryderflex.com/polarizer/03.gif)
+   ![Layer 3](https://alienryderflex.com/polarizer/03.gif)
 
 ### Connecting to Vectors
 Think of the polarization of light as a vector. Each layer of polarized film changes the direction of this vector. By observing the changes in light intensity and direction after each layer, we can visualize how vectors (quantum states) are manipulated in quantum computing.
