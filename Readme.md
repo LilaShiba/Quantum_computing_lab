@@ -74,6 +74,9 @@ Polarized films are materials that only allow light waves vibrating in a certain
 ### Connecting to Vectors
 Think of the polarization of light as a vector. Each layer of polarized film changes the direction of this vector. By observing the changes in light intensity and direction after each layer, we can visualize how vectors (quantum states) are manipulated in quantum computing.
 
+![Explanation In Math](https://github.com/LilaShiba/Quantum_computing_lab/assets/13423696/9452116e-fabf-44e4-90ce-3b4bd422b2c4)
+
+
 ### Observing Quantum Behavior
 As we pass light through these three layers of polarized film, we observe a phenomenon where the addition of a third filter at a specific angle can allow more light to pass through. Here's how it works:
 
