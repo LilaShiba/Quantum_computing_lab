@@ -2,7 +2,7 @@
 
 # [What is Light?](https://youtu.be/7UuUOXfiz9Q?si=eZvPbhvttn-waPDz)
 
-By the end of this lab, you will be able to explain the quantum properties of light using Dirac Notation.
+By the end of this lab, you will be able to explain the quantum properties of light using either Dirac Notation, expirmentation results, or graphs produced by your own program.
 
 ## 🪄 Photons: The Tricksters of Light 🪄
 
@@ -22,14 +22,25 @@ A vector is a quantity that has both magnitude (size) and direction. Think of it
 In quantum computing, vectors help us represent quantum states. For example, a single qubit (the basic unit of quantum information) can be represented as a vector in a two-dimensional space. This vector tells us the probabilities of the qubit being in different states.
 
 ### Vectors in Bra-Ket Notation
-- The state \( |0\rangle \) can be represented as a vector: 
-  \[
-  |0\rangle = \begin{pmatrix} 1 \\ 0 \end{pmatrix}
-  \]
-- The state \( |1\rangle \) can be represented as a vector: 
-  \[
-  |1\rangle = \begin{pmatrix} 0 \\ 1 \end{pmatrix}
-  \]
+<details>
+    <summary>Braket Notation in Quantum Mechanics 🧙‍♀️🔮</summary>
+    <br>
+    <p>In quantum mechanics, <a href='https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation'>bra-ket notation</a> is essential for representing quantum states and operations.</p>
+    <ul>
+        <li><strong>Ket |α⟩</strong>: Represents a quantum state vector. Example: |α⟩ could denote the state of a particle. 🌌</li>
+        <li><strong>Bra ⟨β|</strong>: The conjugate transpose of a ket, helps for quick computations over all state space. 🔄</li>
+        <li><strong>Inner Product ⟨β|α⟩</strong>: Represents the probability amplitude between states |β⟩ and |α⟩. ✨</li>
+        <li><strong>Outer Product |α⟩⟨β|</strong>: An operator that projects onto the state |α⟩. 🌀</li>
+    </ul>
+    <p>Example in a qubit system:</p>
+    <ul>
+        <li><strong>Kets</strong>: |0⟩, |1⟩</li>
+        <li><strong>Bras</strong>: ⟨0|, ⟨1|</li>
+        <li><strong>Inner Product</strong>: ⟨0|1⟩ = 0 (shows orthogonality) 🌠</li>
+        <li><strong>Outer Product</strong>: |0⟩⟨0| (a projection operator) 🌙</li>
+    </ul>
+</details>
+
 
 ## 🧪 Experiment: Polarized Light and Quantum States 🧪
 
