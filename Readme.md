@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -22,7 +21,8 @@
 <h3>What is a Vector?</h3>
 <p>A vector is a quantity that has both magnitude (size) and direction. Think of it as an arrow: the length of the arrow represents the magnitude, and the way it points represents the direction.</p>
 
-<img src="https://github.com/LilaShiba/Quantum_Collapse_Neuron/blob/main/imgs/qubit_ex.png" alt="Layer 3">
+<img src="https://github.com/LilaShiba/Quantum_Collapse_Neuron/blob/main/imgs/qubit_ex.png?raw=true" alt="Layer 3">
+
 
 <h3>How Do We Use Vectors in Quantum Computing?</h3>
 <p>In quantum computing, vectors help us represent quantum states. For example, a single qubit (the basic unit of quantum information) can be represented as a vector in a two-dimensional space. This vector tells us the probabilities of the qubit being in different states.</p>
