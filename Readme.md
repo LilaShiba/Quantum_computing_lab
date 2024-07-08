@@ -46,7 +46,7 @@ In quantum computing, vectors help us represent quantum states. For example, a s
 
 Now, let's tie this understanding of vectors into our experiment. We'll be passing light through three layers of polarized film to demonstrate quantum properties.
 
-### What Are Polarized Films?
+#### What Are Polarized Films?
 Polarized films are materials that only allow light waves vibrating in a certain direction to pass through. When light passes through these films, its direction (or polarization state) changes, much like how vectors can change direction.
 
 ### Our Experiment Setup
@@ -75,9 +75,24 @@ Polarized films are materials that only allow light waves vibrating in a certain
 Think of the polarization of light as a vector. Each layer of polarized film changes the direction of this vector. By observing the changes in light intensity and direction after each layer, we can visualize how vectors (quantum states) are manipulated in quantum computing.
 
 ### Observing Quantum Behavior
-As we pass light through these three layers, we'll notice some surprising results:
-- Light that is completely blocked by the first two layers might pass through when a third layer is added at a specific angle.
-- This behavior is similar to how qubits can exist in superposition and change states in ways that classical particles cannot.
+As we pass light through these three layers of polarized film, we observe a phenomenon where the addition of a third filter at a specific angle can allow more light to pass through. Here's how it works:
+
+1. **Polarization Alignment**: 
+   - The first polarized filter aligns incoming light waves along a specific polarization direction. Only light waves vibrating in this aligned direction can pass through, while others are blocked.
+
+2. **Further Filtering**:
+   - The second filter, oriented at a different angle relative to the first, further restricts the passage of light. It only allows light waves that align with its specific polarization orientation to pass through.
+
+3. **Introducing the Third Filter**:
+   - When we add a third filter at a particular angle relative to the first two, it introduces a new polarization direction. This angle is crucial because it can align with some of the previously blocked light waves that were restricted by the orientations of the first two filters.
+
+4. **Enhanced Transmission**:
+   - As a result, some of the light that was initially blocked by the first two filters can now pass through the third filter. This is because the third filter's angle allows it to transmit light waves that match its polarization orientation, effectively 'unblocking' certain light paths.
+
+5. **Quantum Analogies**:
+   - This behavior resembles quantum superposition, where particles like photons can exist in multiple states simultaneously until observed. In the context of quantum computing, this scenario illustrates how qubits can be manipulated to change their states, akin to how the polarization state of light changes with each additional filter.
+
+In essence, the addition of a third polarized filter at a specific angle alters the available paths for light transmission by introducing a new polarization direction that aligns with previously blocked light waves. This phenomenon demonstrates the intricate relationship between polarization angles and light transmission, drawing parallels to quantum principles such as superposition and state manipulation.
 
 </details>
 
