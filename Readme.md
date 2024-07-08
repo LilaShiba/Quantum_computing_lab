@@ -2,7 +2,7 @@
 
 # [What is Light?](https://youtu.be/7UuUOXfiz9Q?si=eZvPbhvttn-waPDz)
 
-By the end of this lab, you will be able to explain the quantum properties of light using either Dirac Notation, expirmentation results, or graphs produced by your own program.
+By the end of this lab, you will be able to explain the quantum properties of light using either Dirac Notation, experimentation results, or graphs produced by your own program.
 
 ## 🪄 Photons: The Tricksters of Light 🪄
 
@@ -16,7 +16,6 @@ Before we dive deeper into our quantum adventure, let's take a moment to underst
 A vector is a quantity that has both magnitude (size) and direction. Think of it as an arrow: the length of the arrow represents the magnitude, and the way it points represents the direction.
 
 ![Layer 3](https://github.com/LilaShiba/Quantum_Collapse_Neuron/blob/main/imgs/qubit_ex.png)
-
 
 ### How Do We Use Vectors in Quantum Computing?
 In quantum computing, vectors help us represent quantum states. For example, a single qubit (the basic unit of quantum information) can be represented as a vector in a two-dimensional space. This vector tells us the probabilities of the qubit being in different states.
@@ -41,7 +40,6 @@ In quantum computing, vectors help us represent quantum states. For example, a s
     </ul>
 </details>
 
-
 ## 🧪 Experiment: Polarized Light and Quantum States 🧪
 
 Now, let's tie this understanding of vectors into our experiment. We'll be passing light through three layers of polarized film to demonstrate quantum properties.
@@ -49,10 +47,12 @@ Now, let's tie this understanding of vectors into our experiment. We'll be passi
 #### What Are Polarized Films?
 Polarized films are materials that only allow light waves vibrating in a certain direction to pass through. When light passes through these films, its direction (or polarization state) changes, much like how vectors can change direction.
 
-### Our Experiment Setup
+---
+
+# Our Experiment
 
 <details>
-<summary><strong>Start Your Quantum Adventure Here!</strong></summary>
+<summary><strong>Start Lab Here!</strong></summary>
 <br>
   
 0. **Hardware:** Create a program to measure light in lux using Python & the Raspberry Pi.
@@ -75,7 +75,6 @@ Polarized films are materials that only allow light waves vibrating in a certain
 Think of the polarization of light as a vector. Each layer of polarized film changes the direction of this vector. By observing the changes in light intensity and direction after each layer, we can visualize how vectors (quantum states) are manipulated in quantum computing.
 
 ![Explanation In Math](https://github.com/LilaShiba/Quantum_computing_lab/assets/13423696/9452116e-fabf-44e4-90ce-3b4bd422b2c4)
-
 
 ### Observing Quantum Behavior
 As we pass light through these three layers of polarized film, we observe a phenomenon where the addition of a third filter at a specific angle can allow more light to pass through. Here's how it works:
